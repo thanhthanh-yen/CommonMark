@@ -1,6 +1,6 @@
 # FESS
 
-### Introductory info
+### [Introductory info](https://fess.codelibs.org/)
 
 ### Searching tips
 
